@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">My_ContactApp</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_didn_t_connect">Didn\u2019t connect</string>
+  <string name="lbl_mar_05_19_23">Mar 05, 19:23</string>
+  <string name="lbl_mavlonov">Mavlonov</string>
+  <string name="lbl_enter_name">Enter name</string>
+  <string name="lbl_apr_27_14_16">Apr 27, 14:16</string>
+  <string name="lbl_surname">Surname</string>
+  <string name="msg_998">+998  _ _   _ _ _   _ _   _ _</string>
+  <string name="lbl_search">Search...</string>
+  <string name="lbl_noma_lum_shaxs">Noma\u2019lum shaxs</string>
+  <string name="lbl_delete_all">Delete all</string>
+  <string name="lbl_feb_12_08_03">Feb 12, 08:03</string>
+  <string name="lbl_998901234567">+998901234567</string>
+  <string name="msg_muhammadali_esh">Muhammadali Eshon...</string>
+  <string name="lbl_alisherni_akasi">Alisherni akasi</string>
+  <string name="msg_you_have_no_con">You have no contacts yet</string>
+  <string name="lbl_sort_by">Sort by</string>
+  <string name="lbl_incoming_30_sec">Incoming 30 sec</string>
+  <string name="msg_abdurahim_qasso">Abdurahim Qassob</string>
+  <string name="lbl_phone_number">Phone number</string>
+  <string name="lbl_abbos_donaboyev">Abbos Donaboyev</string>
+  <string name="msg_99897_565_71_7">+99897 565 71 73</string>
+  <string name="lbl_bobur">Bobur</string>
+  <string name="msg_998_97_565_7">+998 97  565  71  73</string>
+  <string name="lbl_call_history">Call history</string>
+  <string name="lbl_a_z">A-Z</string>
+  <string name="lbl_z_a">Z-A</string>
+  <string name="msg_sarvar_abdug_an">Sarvar Abdug\u2019aniyev</string>
+  <string name="lbl_name">Name</string>
+  <string name="lbl_contacts">Contacts</string>
+  <string name="lbl_shovkat_qo_shni">Shovkat qo\u2019shni</string>
+  <string name="lbl_rang_5_times">Rang 5 times</string>
+  <string name="lbl_asilbek_taksi">Asilbek Taksi</string>
+  <string name="lbl_bobur_mavlonov">Bobur Mavlonov</string>
+  <string name="msg_outgoing_15_min">Outgoing 15 min 12 sec</string>
+  <string name="lbl_apr_20_10_35">Apr 20, 10:35</string>
+  <string name="lbl_enter_surname">Enter surname</string>
+  <string name="msg_rustam_sartaros">Rustam sartarosh</string>
+<string name="msg_please_enter_valid_text">Please enter valid text</string>
+</resources>
